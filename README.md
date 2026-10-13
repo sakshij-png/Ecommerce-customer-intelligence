@@ -13,8 +13,6 @@ ShopSphere is a Power BI dashboard project built to explore e-commerce sales per
 ## Dashboard Preview
 ![ShopSphere Power BI Dashboard](screenshotsdashboard.png)
 
-![ShopSphere Power BI Dashboard](screenshots/dashboard.png)
-
 
 ## Tools & Technologies
 - Microsoft Power BI Desktop
@@ -47,5 +45,4 @@ Brazilian E-Commerce Public Dataset by Olist, available through [Kaggle](https:/
 This is a learning and portfolio project. Customer segments and business recommendations depend on the selected RFM scoring rules and the quality of the underlying data.
 
 ## Author
-Sakshi Joshi
 Sakshi Joshi
