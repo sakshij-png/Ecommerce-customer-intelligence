@@ -1,0 +1,16 @@
+
+{
+  "name": "ShopSphere Dark Executive",
+  "dataColors": [
+    "#19D3C5",
+    "#2DD4A8",
+    "#5B9BF6",
+    "#9B7CF4",
+    "#F26B78",
+    "#64748B",
+    "#F59E0B"
+  ],
+  "background": "#061525",
+  "foreground": "#F8FAFC",
+  "tableAccent": "#19D3C5"
+}
